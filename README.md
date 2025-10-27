@@ -79,4 +79,3 @@
 ---
 
 *✨ "Финансы — это не просто цифры, это истории о возможностях, рисках и будущем."*
-**mila6060/mila6060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
