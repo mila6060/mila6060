@@ -30,9 +30,6 @@
 ## 🚀 Быстрый старт
 
 ```bash
-git clone https://github.com/your-username/limits_calculator.git
-cd limits_calculator
-python demo.py
 ---
 
 ## 🛠️ Технологии и инструменты
