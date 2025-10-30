@@ -52,7 +52,7 @@
 
 ## 📫 Связь со мной
 
-[![Email](milakukuskina6060@gmail.com)
+[![Email](milakukuskina6060@gmail.com)]
 
 [![Telegram]()
 
