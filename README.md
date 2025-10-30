@@ -20,8 +20,19 @@
 ---
 
 ## 💼 Проекты
+# 🧮 Limits Calculator
 
----
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+Простой и мощный калькулятор для вычисления пределов функций.
+
+## 🚀 Быстрый старт
+
+```bash
+git clone https://github.com/your-username/limits_calculator.git
+cd limits_calculator
+python demo.py---
 
 ## 🛠️ Технологии и инструменты
 
