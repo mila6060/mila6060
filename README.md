@@ -61,8 +61,7 @@ Python 3.8+,Visual Studio Code,Git
 
 [![Email][milakukuskina6060@gmail.com]]
 
-[![Telegram]()
-
+***
 
 ## 🎯 Карьерные цели
 
