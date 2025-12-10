@@ -28,6 +28,7 @@
 Простой и мощный калькулятор для вычисления пределов функций.
 # 🎓Parser Pedagogy
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg) 
+
 Парсер статей по педагогике с Pedsovet.org
 ## 🚀 Быстрый старт
 ---
