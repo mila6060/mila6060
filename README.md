@@ -26,8 +26,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 Простой и мощный калькулятор для вычисления пределов функций.
-# Parser Pedagogy
-🎓 Парсер статей по педагогике с Pedsovet.org
+# 🎓Parser Pedagogy
+ Парсер статей по педагогике с Pedsovet.org
 ## 🚀 Быстрый старт
 ---
 
